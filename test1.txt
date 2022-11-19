@@ -4,3 +4,4 @@ you are dog
 you am people
 he is cat
 he is dog
+she is dog
